@@ -11,7 +11,7 @@ I am a Data Analyst focused on transforming complex raw data into clear, actiona
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-green?style=for-the-badge&logo=python)
 ![Excel](https://img.shields.io/badge/Excel-Advanced%20Analytics-success?style=for-the-badge&logo=microsoftexcel)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Visualization-yellow?style=for-the-badge&logo=powerbi)
-![PHP](https://img.shields.io/badge/PHP-Laravel%20Reporting-777BB4?style=for-the-badge&logo=php)
+
 
 ---
 
@@ -28,7 +28,7 @@ I am a Data Analyst focused on transforming complex raw data into clear, actiona
 | :--- | :--- |
 | **Primary Domain** | Data Analysis & Reporting |
 | **Data Tools** | Python, SQL, Excel, Power BI |
-| **Web Integration** | Laravel, PHP (Backend Logic) |
+
 
 ---
 
